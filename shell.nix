@@ -6,6 +6,7 @@ pkgs.mkShell {
     openscad
     openscad-lsp
     freecad
+    graphviz
     orca-slicer
   ];
 
